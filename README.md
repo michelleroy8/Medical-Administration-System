@@ -1,42 +1,22 @@
-# Health-Care-Management-System
-A secure healthcare management system, built using Django, for the project component of the FCS Monsoon 2022 offering.
+# Medical-Administration-System
+As part of the FCS Monsoon 2022 initiative, a Django-based healthcare management system was designed and implemented with a focus on security and reliability
 
-### Login
+1. Do the Login
 
-![Login](images/login.png)
+2. Proceed with OTP Verification
 
-![Login](images/login2.png)
+3. Make the necessary Profile Updates
 
-### OTP Verification
-![OTP](images/user_verification.png)
+5. Go ahead with Uploading Documents
 
-### Profile Update
-![Profile](images/profile_update.png)
+6. Share Documents
 
-### Upload Documents
+7. View Shared Documents
 
-![Upload](images/upload_docs.png)
+8. Browse Hospitals
 
-### Share Documents
+9. Browse Infirmaries
 
-![Share](images/share_docs.png)
+10. Browse Insurance Companies
 
-### View Shared Documents
-
-![View](images/view_docs.png)
-
-### Browse Hospitals
-
-![Hospitals](images/hospital.png)
-
-### Browse Infirmaries
-
-![Infirmary](images/infirmary.png)
-
-### Browse Insurance Companies
-
-![Insurance](images/insurance.png)
-
-### Request Refund from Insurance Companies
-
-![Refund](images/insurance_refund.png)
+11. Request Refund from Insurance Companies
